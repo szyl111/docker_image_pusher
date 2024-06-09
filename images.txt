@@ -1,2 +1,2 @@
---platform linux/arm64 haroldli/alist
+--platform linux/arm64 haroldli/xiaoya-tvbox
 --platform linux/arm64 haroldli/alist-tvbox
