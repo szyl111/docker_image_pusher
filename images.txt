@@ -1,1 +1,2 @@
 --platform linux/amd64 haroldli/xiaoya-tvbox
+golang:1.22.4
