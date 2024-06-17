@@ -1,5 +1,2 @@
-#--platform linux/amd64 haroldli/xiaoya-tvbox
-#golang:1.22.4
-#dorowu/ubuntu-desktop-lxde-vnc
-#zhizhoutian/glmark2
+--platform linux/amd64 haroldli/xiaoya-tvbox
 nvidia/cuda
