@@ -1,2 +1,3 @@
 --platform linux/amd64 haroldli/xiaoya-tvbox
 --platform linux/arm64 xiaoyaliu/alist:hostmode
+--platform linux/arm64 xiaoyaliu/alist:latest
