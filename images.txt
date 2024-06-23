@@ -1,2 +1,3 @@
 --platform linux/amd64 haroldli/xiaoya-tvbox
 nvidia/cuda
+--platform linux/arm64 xiaoyaliu/alist:hostmode
