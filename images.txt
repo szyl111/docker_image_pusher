@@ -1,1 +1,1 @@
-nvcr.io/nvidia/cuda:12.5.1-base-ubi8
+jaegertracing/all-in-one:1.57.0
