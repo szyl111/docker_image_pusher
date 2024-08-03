@@ -1,1 +1,2 @@
 --platform linux/arm64 xiaoyaliu/alist:hostmode
+--platform linux/arm64 ddsderek/xiaoyakeeper:latest
