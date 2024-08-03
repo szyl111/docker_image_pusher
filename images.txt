@@ -1,2 +1,1 @@
-jaegertracing/all-in-one:1.57.0
-xiaoyaliu/alist:hostmode
+--platform linux/arm64 xiaoyaliu/alist:hostmode
