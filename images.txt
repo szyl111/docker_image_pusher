@@ -2,3 +2,5 @@
 --platform linux/arm64 ddsderek/xiaoyakeeper:latest
 --platform linux/arm64 idootop/mi-gpt:latest
 --platform linux/arm64 kubeedge/edgemesh-agent:v1.17.0
+--platform linux/arm64 ghcr.io/spidernet-io/spiderpool/spiderpool-agent:v0.9.4
+--platform linux/arm64 ghcr.io/spidernet-io/spiderpool/spiderpool-controller:v0.9.4
