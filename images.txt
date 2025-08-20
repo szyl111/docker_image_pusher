@@ -1,1 +1,1 @@
---platform linux/amd64 ollama/ollama:0.5.7
+--platform linux/amd64 python:3.11-slim
