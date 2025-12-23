@@ -1,1 +1,1 @@
---platform linux/amd64 python:3.11-slim
+--platform linux/amd64 zilliz/attu
