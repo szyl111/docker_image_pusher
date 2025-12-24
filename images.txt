@@ -1,1 +1,1 @@
---platform linux/amd64 zilliz/attu
+--platform linux/arm64 kubeedge/edgemesh-agent:v1.17.0
