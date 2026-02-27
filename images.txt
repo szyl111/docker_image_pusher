@@ -1,1 +1,3 @@
---platform linux/arm64 kubeedge/edgemesh-agent:v1.17.0
+--platform linux/arm64 golang:1.25-alpine
+--platform linux/arm64 alpine:3.23
+
