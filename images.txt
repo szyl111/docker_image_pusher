@@ -1,1 +1,1 @@
---platform linux/arm64 dreamacro/clash:latest
+--platform linux/arm64 metacubex/mihomo:latest
