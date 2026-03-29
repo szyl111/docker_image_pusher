@@ -1,3 +1,1 @@
---platform linux/arm64 golang:1.25-alpine
---platform linux/arm64 alpine:3.23
---platform linux/arm64  gcr.io/kubebuilder/kube-rbac-proxy:v0.16.0
+--platform linux/arm64 dreamacro/clash:latest
