@@ -1,1 +1,1 @@
---platform linux/arm64 metacubex/mihomo:latest
+--platform linux/amd64 quay.io/networkstatic/whereabouts:latest
