@@ -1,1 +1,1 @@
---platform linux/amd64 ghcr.io/k8snetworkplumbingwg/whereabouts:latest
+--platform linux/amd64 debian:stable-slim
