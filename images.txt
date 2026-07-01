@@ -1,1 +1,1 @@
---platform linux/amd64 debian:stable-slim
+--platform linux/amd64 filebrowser/filebrowser:latest
