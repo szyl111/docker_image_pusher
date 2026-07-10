@@ -1,1 +1,1 @@
---platform linux/amd64 filebrowser/filebrowser:latest
+--platform prometheuscommunity/ipmi-exporter:v1.9.0
