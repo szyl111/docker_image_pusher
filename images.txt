@@ -1,1 +1,1 @@
---platform linux/amd64 xkrfer/mihomo-with-ui:latest
+--platform linux/amd64 ghcr.io/metacubex/metacubexd-server:latest
