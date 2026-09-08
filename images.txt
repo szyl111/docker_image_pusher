@@ -1,1 +1,1 @@
---platform linux/amd64 pieat/websocket-test-server:latest
+--platform linux/amd64 solsson/websocat:latest
