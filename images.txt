@@ -1,1 +1,1 @@
---platform linux/amd64 ghcr.io/metacubex/metacubexd-server:latest
+--platform linux/amd64 pieat/websocket-test-server:latest
