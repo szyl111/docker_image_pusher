@@ -1,1 +1,1 @@
---platform linux/amd64 solsson/websocat:latest
+--platform linux/amd64 minio/console:v0.25.0
