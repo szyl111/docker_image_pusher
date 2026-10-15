@@ -1,1 +1,1 @@
---platform linux/amd64 machines/filestash:latest
+--platform linux/amd64 alpine/minio:latest-release
