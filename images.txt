@@ -1,1 +1,1 @@
---platform linux/amd64 xridge/fio:3.34
+--platform linux/amd64 xridge/fio:latest
