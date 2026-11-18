@@ -1,1 +1,1 @@
---platform linux/amd64 xridge/fio:latest
+--platform linux/amd64 jlesage/firefox:latest
